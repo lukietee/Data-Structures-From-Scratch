@@ -7,6 +7,19 @@ The following data structures have been implemented from scratch, with more to c
 
 Binary Search Tree
 
+- Insert TreeNode
+- Count TreeNodes
+- Find TreeNode
+- Delete TreeNode
+- Printing In Order Traversal
+- Printing Pre Order Traversal
+- Printing Post Order Traversal
+- Count Leaves
+- Find Height
+- Find Width
+- Print By Level
+- Clear Tree
+
 Singly Linked List
 
 Doubly Linked List
