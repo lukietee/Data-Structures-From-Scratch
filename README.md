@@ -7,6 +7,7 @@ The following data structures have been implemented from scratch, with more to c
 
 Binary Search Tree
 
+- Load Tree from File
 - Insert TreeNode
 - Count TreeNodes
 - Find TreeNode
@@ -22,8 +23,43 @@ Binary Search Tree
 
 Singly Linked List
 
+- Load Linked List from File
+- Insert List Nodes in Order
+- Find List Node
+- Remove List Node
+- Clear Linked List
+- Count List Nodes
+- Print Linked List Recursively
+- Print Linked List Backwards Recursively
+
 Doubly Linked List
+
+- Load Linked List from File
+- Insert List Nodes in Order
+- Find List Node
+- Remove List Node
+- Clear Linked List
+- Count List Nodes
+- Print Linked List 
+- Print Linked List Backwards 
+- Recursive Merge Sort
 
 Circular Linked List
 
+- Load Linked List from File
+- Insert List Nodes in Order
+- Find List Node
+- Remove List Node
+- Clear Linked List
+- Count List Nodes
+- Print Linked List 
+- Print Linked List Backwards 
+
 Hash Table
+
+- Insert Values from File w/ Dynamic Linked Lists
+- Print Hash Table
+- Search Hash Table
+- Null Pointer %
+- Average Length Non-Null Linked Lists
+- Longest Linked List
