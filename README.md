@@ -63,3 +63,11 @@ Hash Table
 - Null Pointer %
 - Average Length Non-Null Linked Lists
 - Longest Linked List
+
+Stack
+
+- Push Item
+- Check if Empty
+- Pop Value
+- Stack Size
+- Fill Stack from File
